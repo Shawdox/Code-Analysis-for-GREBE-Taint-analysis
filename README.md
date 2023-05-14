@@ -1,16 +1,9 @@
----
-title: (代码分析)GREBE-Analyzer污点分析代码解析
-author: Shaw
-categories: Code
-tags: ["Vulnerability" , "AEG" ]
-
----
 
 # (代码分析)GREBE-Analyzer污点分析代码解析
 
->**Code：**[Markakd/GREBE (github.com)](https://github.com/Markakd/GREBE)
+>Code：[Markakd/GREBE (github.com)](https://github.com/Markakd/GREBE)
 >
->**Target：**GREBE/analyzer
+>Target：GREBE/analyzer
 ><!--more-->
 
 ## 一、get_cg.py & run_analyze.py
